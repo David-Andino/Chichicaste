@@ -135,4 +135,4 @@ client.on('messageCreate', async (message) => {
 */
 })
 
-client.login('MTAwMTE4MzEyNTUzNzI5NjQ5Ng.GY2uH6.NW4EFDu9JKExjZPew9zOSxKRLG0dqdIFgMA23s')
+client.login('MTAwMTE4MzEyNTUzNzI5NjQ5Ng.GonGl-.DfHkV2yXT_vVzl82q468-gI2FPIgmM3jMajxFg')
